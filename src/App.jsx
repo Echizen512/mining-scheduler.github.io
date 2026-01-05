@@ -86,7 +86,7 @@ function App() {
               onChange={handleChange}
             />
             <InputField
-              label="Horizonte (Días)"
+              label="Perforación (Días)"
               name="totalDays"
               value={config.totalDays}
               onChange={handleChange}
